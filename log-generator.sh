@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 echoVar(){
   variableName=$1
   referenceVariable="variableName"
